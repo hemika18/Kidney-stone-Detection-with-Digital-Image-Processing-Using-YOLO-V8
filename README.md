@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kidney Stone Detection using YOLOv8
 
 This project presents a deep learning-based solution for **automatic kidney stone detection** using CT scan images.
@@ -111,3 +112,6 @@ Developed by: Dinesh P
 Project: Kidney Stone Detection using YOLOv8  
 Date: July 2025
 
+=======
+# Kidney-stone-Detection-with-Digital-Image-Processing-Using-YOLO-V8
+>>>>>>> 4dce55b5552091f40725d236dda98c64d41e551b
