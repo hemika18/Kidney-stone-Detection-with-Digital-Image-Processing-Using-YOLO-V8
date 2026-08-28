@@ -105,13 +105,3 @@ chmod +x run.sh
  Message: “No Stone Detected” if no bounding boxes are returned.
 
 
-
-## Authors
-
-Developed by: Dinesh P  
-Project: Kidney Stone Detection using YOLOv8  
-Date: July 2025
-
-=======
-# Kidney-stone-Detection-with-Digital-Image-Processing-Using-YOLO-V8
->>>>>>> 4dce55b5552091f40725d236dda98c64d41e551b
